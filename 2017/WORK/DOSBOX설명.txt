@@ -1,0 +1,19 @@
+c:\ DOSBOX 복사(asm파일)
+ 방 DOSBOX에서  DOSBox0.74-win32-installer.exe 실행
+바로가기 DOSBos 0.74 엔테(실행)
+
+
+mount c c:\    C:\ 만들기
+
+C: Enter
+
+dir
+
+Alt + Enter  큰화면
+
+ASM 파일을 DOSBOX방에 복사하여 컴파일한다.
+
+CYS8051 컴파일러 
+ex) asm51 fc253ht.asm  (파일명 7자이내)
+
+exit
